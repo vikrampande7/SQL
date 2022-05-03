@@ -1,0 +1,14 @@
+
+--- TO FIND IF A YAER IS LEAP OR NOT
+
+declare @year int = 2021;
+SELECT CASE WHEN ISDATE(CAST(@year AS CHAR(4)) + '0229') = 1
+THEN 'LEAP YEAR'
+ELSE 'NOT A LEAP YEAR'
+END
+
+
+SELECT CASE WHEN (@year % 4 = 0 AND @year % 100 <> 0) OR @year % 400 = 0
+THEN 'LEAP YEAR'
+ELSE 'NOT A LEAP YEAR'
+END
