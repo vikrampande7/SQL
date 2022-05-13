@@ -11,3 +11,5 @@
 
 #### involved queries
     - To find a leap year 
+    - To extract the data from string
+    - Q and A for GROUP BY and HAVING 
