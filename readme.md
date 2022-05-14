@@ -13,3 +13,10 @@
     - To find a leap year 
     - To extract the data from string
     - Q and A for GROUP BY and HAVING 
+    - AS keyword
+    - Joins - Inner Join, Left Join, Right Join, Outer Join, Self Join, UNION
+    - Timestamps and Extract
+    - Mathematical Functions and Operators
+    - String Fucntions and Operators
+    - SubQuery
+    
