@@ -19,4 +19,5 @@
     - Mathematical Functions and Operators
     - String Fucntions and Operators
     - SubQuery
+    - PostGRE with Python using psycopg2
     
