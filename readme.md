@@ -20,4 +20,12 @@
     - String Fucntions and Operators
     - SubQuery
     - PostGRE with Python using psycopg2
+    - TABLE OPERATIONS 
+        - CREATE
+        - INSERT
+        - UPDATE
+        - ALTER
+        - DROP
+        - DELETE
+        - CHECK
     
