@@ -28,4 +28,9 @@
         - DROP
         - DELETE
         - CHECK
+    - CASE
+    - COALESCE
+    - NULLIF
+    - VIEWS
+    - IMPORT EXPORT the data (https://www.enterprisedb.com/postgres-tutorials/how-import-and-export-data-using-csv-files-postgresql) (https://stackoverflow.com/questions/2987433/how-to-import-csv-file-data-into-a-postgresql-table)
     
