@@ -1,5 +1,7 @@
 ## SQL Questions and Answers
 
+![GitHub top language](https://img.shields.io/github/languages/top/vikrampande7/SQL)
+
 ### SQL reference documentation
 - Study Material (https://www.w3schools.com/sql/)
 - Microsoft SQL server Studio  (https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15)
